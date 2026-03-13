@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Analyse Statistique Intégrée du Réseau de Bornes Électriques
 
 ## Description du Projet
@@ -78,4 +78,4 @@ Quelles visualisations sont les plus utiles?
 
 auteur:
 Apetoh, Manfouo, Tambat, Nyami 
->>>>>>> fbe921a289da26fb903f4ae92dd57efa64e90a1c
+
